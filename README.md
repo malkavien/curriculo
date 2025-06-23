@@ -22,10 +22,9 @@ Universidade Federal Rural do Semi-Árido (UFERSA) / UERN | Concluído em 2019
 
 ### **NovaCode**  
 *Desenvolvedor Backend (2021 - Atualmente)*  
- -Desenvolvimento de sistemas web e APIs com foco em performance e escalabilidade, 
-utilizando JAVA e outras tecnologias. 
- -Integração com sistemas externos via APIs RESTful e Webhooks
- -Modelagem e manutenção de bancos de dados relacionais 
+- Desenvolvimento de sistemas web e APIs com foco em performance e escalabilidade, utilizando JAVA e outras tecnologias.  
+- Integração com sistemas externos via APIs RESTful e Webhooks  
+- Modelagem e manutenção de bancos de dados relacionais 
 
 ---
 
