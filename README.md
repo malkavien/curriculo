@@ -31,7 +31,7 @@ Universidade Federal Rural do Semi-Árido (UFERSA) / UERN | Concluído em 2019
 ## 🛠️ Habilidades Técnicas  
 
 ### **Linguagens & Tecnologias**  
-`Node.js` `TypeScript` `React Native` `SQL` `Python`  
+`Node.js` `TypeScript` `React Native` `SQL`
 
 ### **Ferramentas & Plataformas**  
 `Git` `Docker` `Power BI` `Metodologias Ágeis (Scrum/Kanban)`  
