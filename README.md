@@ -4,7 +4,7 @@
 🔗 [LinkedIn](https://linkedin.com/in/rafael-rodrigues-04184757) | 🌐 [GitHub](https://github.com/seu-usuario)
 
 ## 🎯 Objetivo Profissional
-Atuar como desenvolvedor em projetos desafiadores na área de tecnologia...
+Atuar como desenvolvedor em projetos desafiadores na área de tecnologia, utilizando minha experiência com backend, mobile e inteligência de dados para entregar soluções eficazes, escaláveis e orientadas aos resultados do negócio.
 
 ## 💼 Experiência
 ### **NovaCode**  
