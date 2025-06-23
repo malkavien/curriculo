@@ -36,14 +36,3 @@ Universidade Federal Rural do Semi-Árido (UFERSA) / UERN | Concluído em 2019
 ### **Ferramentas & Plataformas**  
 `Git` `Docker` `Metodologias Ágeis (Scrum/Kanban)`  
 
----
-
-## 🌐 Idiomas  
-- **Português**: Nativo  
-- **Inglês**: Intermediário (leitura técnica avançada)  
-
----
-
-## 🚗 Informações Adicionais  
-- **CNH**: Categoria AB  
-- **Disponibilidade**: Remoto ou presencial (Mossoró/RN)  
